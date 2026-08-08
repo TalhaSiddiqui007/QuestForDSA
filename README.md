@@ -36,7 +36,8 @@ This repository contains my C++ solutions to Data Structures and Algorithms prob
 
 | Topic | Problems |
 |--------|---------:|
-| Arrays | 1 |
+| Arrays | 2 |
+| Linked List | 0 |
 | Strings | 0 |
 | Trees | 0 |
 | Graphs | 0 |
