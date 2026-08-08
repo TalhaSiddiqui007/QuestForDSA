@@ -1,3 +1,17 @@
+/*
+Problem : Second Largest
+Platform: GeeksorGeeks
+Difficulty: Easy
+
+Approach:
+- 
+
+Topic:
+- Array, Searching
+
+Time Complexity : O(n)
+*/
+
 #include <iostream>
 #include <climits>
 #include <vector>
