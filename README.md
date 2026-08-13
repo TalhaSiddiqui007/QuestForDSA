@@ -37,12 +37,12 @@ This repository contains my C++ solutions to Data Structures and Algorithms prob
 | Topic | Problems |
 |--------|---------:|
 | Arrays | 3 |
-| Linked List | 3 |
+| Linked List | 4 |
 | Strings | 0 |
 | Trees | 0 |
 | Graphs | 0 |
 | DP | 0 |
-| Total | 0 |
+| Total | 7 |
 
 ## Goal
 
