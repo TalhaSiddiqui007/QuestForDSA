@@ -1,3 +1,19 @@
+/*
+Problem : Sort in Even and Odd
+Platform: Guvi
+Difficulty: Easy
+
+Approach:
+- Traversing
+
+Topic:
+- Array, Sorting
+
+Time Complexity : O(n^2)
+Space Complexity : O(n)
+*/
+
+
 #include <iostream> 
 using namespace std;
 int main() {
