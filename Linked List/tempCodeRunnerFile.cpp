@@ -1,13 +1,4 @@
-/*
-Problem : Reverse Linked List
-Platform: LeetCode
-Difficulty: Easy
-
-Approach:
-- Three Pointer Approach
-
-Topic:
-- Linked List
-
-Time Complexity : O(n)
-*/
+(head, 6);
+    push_back(head, 7);
+    push_back(head, 8);
+    push_back(head, 9);
